@@ -1,5 +1,106 @@
-----
+-------------------------------------------
+it
+is
+a
+a desk
+a pen
+a pencil
+take
+please
+a text
+to be
+-------------------------------------------
+a lesson
+a man
+a woman
+a student
+too
+a book
+good
+my
+to open
+to find
+a page
+five
+to close
+a cup
+yes
+nice
+a spoon
+to give
+me 
+bad
+---------------------------------------------------
+this
+that
+a flat
+the
+a room
+a two-room flat
+large
+not
+no 
+kitchen
+a bath-room
+to go
+to
+a tea-pot
+tea
+on
+a table
+in 
+a sofa
+red
+blue
+black
+a car
+a park
+-----------------------------------------------------------
+I
+am
+an economist
+mister
+a friend
+he
+we
+an engineer
+are
+at
+an office
+now
+these
+those
+a chair
+his
+a letter
+long
+they
+short
+what
+what
+where
+colour
+What are you?
+your
+name
+who are you?
+she
+wife
+one
+two
+three
+four
+six
+seven
+eight
+nine
+ten
+at
+under
+white
+green
 
+-------------------------------------------------------------
 Sunday
 Monday
 Tuesday
@@ -44,7 +145,8 @@ when
 on 
 at
 a weekday
-or whose
+or 
+whose
 about
 their
 How old is this boy?
@@ -61,3 +163,50 @@ eighteen
 nineteen
 twenty
 --------------------------------------------
+to work
+work
+a ministry
+foreign
+trade
+of
+our
+a factory
+every
+to get up
+to shave
+to wash
+to dress
+to cook
+breakfast
+at breakfast
+early
+to put
+a plate
+a knife
+a fork
+to sit down
+to eat
+ham
+cheese
+an egg
+bread
+butter
+to drink
+coffee
+milk
+after
+to go to school
+a nursery school
+to take
+there
+but
+him
+to begin
+thirty
+forty
+fifty
+sixty
+seventy
+eighty
+ninety
+economic
