@@ -487,7 +487,7 @@ in two days
 in a quarter of an hour
 late
 to have supper
-to listen
+to listen to
 news
 radio
 to go to bed
@@ -504,11 +504,70 @@ the day before yesterday
 the other day
 last
 last night
-to night
-
-
-
-
+tonight
+------------------------------------------------------
+holiday
+to have a holiday
+to spend(spent, spent)
+month
+the Crimea
+in the Crimea
+the Caucasus
+sea
+seaside
+holiday-home
+river
+the Moskva River
+to have a good time
+to ski(skied, skied)
+skis
+to skate
+to go skating
+skates
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+in June
+on the 15th of January
+beautiful
+town
+city
+beach
+the sun
+to shine (shone, shone)
+hot
+holiday-maker
+to swim (swam, swum)
+to sunbathe
+suddenly
+among
+between
+fortnight
+sunburnt
+sunshade
+place
+by the way
+to be going
+cinema
+to go to the cinema
+to be at the cinema
+interesting
+film
+to let(let, let)
+together
+to have got
+when
+while
+--------------------------
 
 
 
