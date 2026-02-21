@@ -470,7 +470,7 @@ to be on (was, were, been)
 the Art Theatre
 night
 back
-to come back
+to come back (came back, come back)
 to go back
 to be back
 to give back
@@ -568,10 +568,69 @@ to have got
 when
 while
 --------------------------
-
-
-
- 
+on c.i.f. terms
+on f.o.b. terms
+on f.a.s terms
+buyer
+seller
+to be interested in (acc., gerund)
+model
+president
+to ask
+talk
+to have a talk
+to have talks
+representative
+next
+necessary
+material
+materials (all the materials)
+to make an appointment
+to hope
+to go sightseeing
+the Tretyakov Gallery
+the Kremlin
+to believe
+too
+high
+low
+to be afraid
+to think (thought, thought)
+at the price of
+a pound
+great
+to be in demand
+to reduce
+to offer
+offer
+to accept
+to accept an offer
+to accept a price
+to accept terms of delivery
+to accept terms of payment
+to accept goods
+acceptable
+to require
+to ship
+a ship
+shipment
+terms of shipment
+time of shipment
+fine
+to contact [kon'takt]
+convenient
+to say (said, said)
+yet
+yet
+since prep
+since conj
+ever
+never
+just
+lately
+how long
+for a long time
+----------------------------------------------------------
 
 
 
